@@ -1,0 +1,189 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="612" currentTimeline="1" xflVersion="2.5" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 14.1 build 96" majorVersion="14" minorVersion="1" buildNumber="96" viewAngle3D="60.1630629245287" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <folders>
+          <DOMFolderItem name="buttons" itemID="554e0e70-00000936"/>
+          <DOMFolderItem name="Font" itemID="554e0e50-0000092d"/>
+          <DOMFolderItem name="graphic" itemID="554e0a0a-000008cd"/>
+          <DOMFolderItem name="graphic/AnimationRabbit_Hello" itemID="554df5c5-0000051f"/>
+          <DOMFolderItem name="graphic/AnimationRabbit_Jump" itemID="554df5ae-0000051b"/>
+          <DOMFolderItem name="graphic/Buttons" itemID="554e0a0a-000008ce" isExpanded="true"/>
+          <DOMFolderItem name="movieClips" itemID="554e2a16-0000009b" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Font/Big_Bottom_Cartoon_Regular" itemID="554e0b00-000008ef" font="Big_Bottom_Cartoon" size="0" id="1" sourceLastImported="1431177984" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0003.png" itemID="554df688-000005bf" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0003.png" sourceLastImported="1419529959" externalFileCRC32="410934209" externalFileSize="45727" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0003.png" bitmapDataHRef="M 32 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0004.png" itemID="554df688-000005c4" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0004.png" sourceLastImported="1419529959" externalFileCRC32="1421705972" externalFileSize="45987" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0004.png" bitmapDataHRef="M 33 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0006.png" itemID="554df688-000005ce" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0006.png" sourceLastImported="1419529959" externalFileCRC32="1544297470" externalFileSize="45604" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0006.png" bitmapDataHRef="M 35 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0007.png" itemID="554df688-000005d3" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0007.png" sourceLastImported="1419529959" externalFileCRC32="867670104" externalFileSize="45773" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0007.png" bitmapDataHRef="M 36 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0009.png" itemID="554df688-000005dd" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0009.png" sourceLastImported="1419529959" externalFileCRC32="3922780968" externalFileSize="46053" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0009.png" bitmapDataHRef="M 38 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0010.png" itemID="554df688-000005e2" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0010.png" sourceLastImported="1419529959" externalFileCRC32="1765243147" externalFileSize="46105" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0010.png" bitmapDataHRef="M 39 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0012.png" itemID="554df686-00000524" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0012.png" sourceLastImported="1419529959" externalFileCRC32="4144181288" externalFileSize="46280" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0012.png" bitmapDataHRef="M 1 1431172742.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0013.png" itemID="554df686-00000529" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0013.png" sourceLastImported="1419529959" externalFileCRC32="3351309708" externalFileSize="46825" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0013.png" bitmapDataHRef="M 2 1431172742.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0015.png" itemID="554df686-00000533" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0015.png" sourceLastImported="1419529959" externalFileCRC32="2186614273" externalFileSize="46746" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0015.png" bitmapDataHRef="M 4 1431172742.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0016.png" itemID="554df686-00000538" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0016.png" sourceLastImported="1419529959" externalFileCRC32="4008631096" externalFileSize="47179" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0016.png" bitmapDataHRef="M 5 1431172742.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0018.png" itemID="554df687-00000542" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0018.png" sourceLastImported="1419529959" externalFileCRC32="2733260986" externalFileSize="47620" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0018.png" bitmapDataHRef="M 7 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0019.png" itemID="554df687-00000547" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0019.png" sourceLastImported="1419529960" externalFileCRC32="583434" externalFileSize="47950" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0019.png" bitmapDataHRef="M 8 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0021.png" itemID="554df687-00000551" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0021.png" sourceLastImported="1419529960" externalFileCRC32="3071324540" externalFileSize="48328" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0021.png" bitmapDataHRef="M 10 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0022.png" itemID="554df687-00000556" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0022.png" sourceLastImported="1419529960" externalFileCRC32="1749824591" externalFileSize="49025" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0022.png" bitmapDataHRef="M 11 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0024.png" itemID="554df687-00000560" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0024.png" sourceLastImported="1419529960" externalFileCRC32="333096915" externalFileSize="50891" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0024.png" bitmapDataHRef="M 13 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0025.png" itemID="554df687-00000565" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0025.png" sourceLastImported="1419529960" externalFileCRC32="2250190751" externalFileSize="51886" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0025.png" bitmapDataHRef="M 14 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0027.png" itemID="554df687-0000056f" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0027.png" sourceLastImported="1419529960" externalFileCRC32="83723551" externalFileSize="52414" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0027.png" bitmapDataHRef="M 16 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0028.png" itemID="554df687-00000574" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0028.png" sourceLastImported="1419529960" externalFileCRC32="2481422236" externalFileSize="52235" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0028.png" bitmapDataHRef="M 17 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0030.png" itemID="554df687-0000057e" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0030.png" sourceLastImported="1419529960" externalFileCRC32="3999072039" externalFileSize="53745" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0030.png" bitmapDataHRef="M 19 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0031.png" itemID="554df687-00000583" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0031.png" sourceLastImported="1419529960" externalFileCRC32="1446639134" externalFileSize="53672" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0031.png" bitmapDataHRef="M 20 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0033.png" itemID="554df687-0000058d" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0033.png" sourceLastImported="1419529960" externalFileCRC32="3527885291" externalFileSize="50198" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0033.png" bitmapDataHRef="M 22 1431172743.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0034.png" itemID="554df688-00000592" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0034.png" sourceLastImported="1419529960" externalFileCRC32="3834483519" externalFileSize="51194" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0034.png" bitmapDataHRef="M 23 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0036.png" itemID="554df688-0000059c" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0036.png" sourceLastImported="1419529960" externalFileCRC32="2211370589" externalFileSize="51459" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0036.png" bitmapDataHRef="M 25 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0037.png" itemID="554df688-000005a1" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0037.png" sourceLastImported="1419529960" externalFileCRC32="2315020032" externalFileSize="50243" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0037.png" bitmapDataHRef="M 26 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0039.png" itemID="554df688-000005ab" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0039.png" sourceLastImported="1419529960" externalFileCRC32="2135607039" externalFileSize="48645" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0039.png" bitmapDataHRef="M 28 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0040.png" itemID="554df6d5-000005ed" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0040.png" sourceLastImported="1419529960" externalFileCRC32="2128971876" externalFileSize="46828" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0040.png" bitmapDataHRef="M 41 1431172821.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Jump/rabbit0040.png" itemID="554df688-000005b0" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Jump/rabbit0040.png" sourceLastImported="1419529960" externalFileCRC32="2128971876" externalFileSize="46828" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Jump/rabbit0040.png" bitmapDataHRef="M 29 1431172744.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0042.png" itemID="554df6d5-000005f7" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0042.png" sourceLastImported="1419529960" externalFileCRC32="2579740462" externalFileSize="47053" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0042.png" bitmapDataHRef="M 43 1431172821.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0043.png" itemID="554df6d5-000005fc" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0043.png" sourceLastImported="1419529960" externalFileCRC32="3287283730" externalFileSize="47302" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0043.png" bitmapDataHRef="M 44 1431172821.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0045.png" itemID="554df6d6-00000606" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0045.png" sourceLastImported="1419529960" externalFileCRC32="1761703184" externalFileSize="48043" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0045.png" bitmapDataHRef="M 46 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0046.png" itemID="554df6d6-0000060b" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0046.png" sourceLastImported="1419529961" externalFileCRC32="409456097" externalFileSize="49081" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0046.png" bitmapDataHRef="M 47 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0048.png" itemID="554df6d6-00000615" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0048.png" sourceLastImported="1419529961" externalFileCRC32="1765442302" externalFileSize="49697" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0048.png" bitmapDataHRef="M 49 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0049.png" itemID="554df6d6-0000061a" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0049.png" sourceLastImported="1419529961" externalFileCRC32="4265320193" externalFileSize="49534" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0049.png" bitmapDataHRef="M 50 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0051.png" itemID="554df6d6-00000624" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0051.png" sourceLastImported="1419529961" externalFileCRC32="3111424392" externalFileSize="50045" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0051.png" bitmapDataHRef="M 52 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0052.png" itemID="554df6d6-00000629" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0052.png" sourceLastImported="1419529961" externalFileCRC32="3050802867" externalFileSize="50249" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0052.png" bitmapDataHRef="M 53 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0054.png" itemID="554df6d6-00000633" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0054.png" sourceLastImported="1419529961" externalFileCRC32="300886215" externalFileSize="51400" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0054.png" bitmapDataHRef="M 55 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0055.png" itemID="554df6d6-00000638" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0055.png" sourceLastImported="1419529961" externalFileCRC32="1051511240" externalFileSize="51770" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0055.png" bitmapDataHRef="M 56 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0057.png" itemID="554df6d6-00000642" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0057.png" sourceLastImported="1419529961" externalFileCRC32="1090300771" externalFileSize="51728" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0057.png" bitmapDataHRef="M 58 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0058.png" itemID="554df6d6-00000647" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0058.png" sourceLastImported="1419529961" externalFileCRC32="1707501699" externalFileSize="51818" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0058.png" bitmapDataHRef="M 59 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0060.png" itemID="554df6d6-00000651" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0060.png" sourceLastImported="1419529961" externalFileCRC32="1945352534" externalFileSize="51566" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0060.png" bitmapDataHRef="M 61 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0061.png" itemID="554df6d6-00000656" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0061.png" sourceLastImported="1419529961" externalFileCRC32="2025873373" externalFileSize="51184" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0061.png" bitmapDataHRef="M 62 1431172822.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0063.png" itemID="554df6d7-00000660" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0063.png" sourceLastImported="1419529961" externalFileCRC32="3606702388" externalFileSize="50668" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0063.png" bitmapDataHRef="M 64 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0064.png" itemID="554df6d7-00000665" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0064.png" sourceLastImported="1419529961" externalFileCRC32="1224740150" externalFileSize="50309" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0064.png" bitmapDataHRef="M 65 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0066.png" itemID="554df6d7-0000066f" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0066.png" sourceLastImported="1419529961" externalFileCRC32="888521850" externalFileSize="50366" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0066.png" bitmapDataHRef="M 67 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0067.png" itemID="554df6d7-00000674" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0067.png" sourceLastImported="1419529961" externalFileCRC32="3225426197" externalFileSize="50638" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0067.png" bitmapDataHRef="M 68 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0069.png" itemID="554df6d7-0000067e" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0069.png" sourceLastImported="1419529961" externalFileCRC32="182347865" externalFileSize="51300" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0069.png" bitmapDataHRef="M 70 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0070.png" itemID="554df6d7-00000683" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0070.png" sourceLastImported="1419529961" externalFileCRC32="4226501355" externalFileSize="51409" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0070.png" bitmapDataHRef="M 71 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0072.png" itemID="554df6d7-0000068d" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0072.png" sourceLastImported="1419529961" externalFileCRC32="3668906523" externalFileSize="50754" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0072.png" bitmapDataHRef="M 73 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0073.png" itemID="554df6d7-00000692" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0073.png" sourceLastImported="1419529962" externalFileCRC32="1946525595" externalFileSize="50583" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0073.png" bitmapDataHRef="M 74 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0075.png" itemID="554df6d7-0000069c" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0075.png" sourceLastImported="1419529962" externalFileCRC32="3145616044" externalFileSize="49086" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0075.png" bitmapDataHRef="M 76 1431172823.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0076.png" itemID="554df6d8-000006a1" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0076.png" sourceLastImported="1419529962" externalFileCRC32="2545184341" externalFileSize="48149" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0076.png" bitmapDataHRef="M 77 1431172824.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0078.png" itemID="554df6d8-000006ab" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0078.png" sourceLastImported="1419529962" externalFileCRC32="119836720" externalFileSize="47951" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0078.png" bitmapDataHRef="M 79 1431172824.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0079.png" itemID="554df6d8-000006b0" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0079.png" sourceLastImported="1419529962" externalFileCRC32="3618041500" externalFileSize="47622" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0079.png" bitmapDataHRef="M 80 1431172824.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/AnimationRabbit_Hello/rabbit0081.png" itemID="554df6d8-000006ba" sourceExternalFilepath="./LIBRARY/graphic/AnimationRabbit_Hello/rabbit0081.png" sourceLastImported="1419529962" externalFileCRC32="3172733591" externalFileSize="46823" originalCompressionType="lossless" quality="50" href="graphic/AnimationRabbit_Hello/rabbit0081.png" bitmapDataHRef="M 82 1431172824.dat" frameRight="4800" frameBottom="7500"/>
+          <DOMBitmapItem name="graphic/Buttons/Share_down" itemID="554e2fdc-000001aa" sourceExternalFilepath="./LIBRARY/graphic/Buttons/Button_Share/share_down" sourceLastImported="1431187420" originalCompressionType="lossless" quality="85" href="graphic/Buttons/Share_down" bitmapDataHRef="M 85 1431177843.dat" frameRight="5940" frameBottom="1100"/>
+          <DOMBitmapItem name="graphic/Buttons/Share_normal.png" itemID="554e2fe0-000001ac" sourceExternalFilepath="./LIBRARY/graphic/Buttons/Button_Share/share_normal.png" sourceLastImported="1431187424" originalCompressionType="lossless" quality="85" href="graphic/Buttons/Share_normal.png" bitmapDataHRef="M 83 1431177738.dat" frameRight="5940" frameBottom="1120"/>
+          <DOMBitmapItem name="graphic/Buttons/Share_over" itemID="554e2fe4-000001ad" sourceExternalFilepath="./LIBRARY/graphic/Buttons/Button_Share/share_over" sourceLastImported="1431187428" originalCompressionType="lossless" quality="85" href="graphic/Buttons/Share_over" bitmapDataHRef="M 84 1431177815.dat" frameRight="5940" frameBottom="1120"/>
+     </media>
+     <symbols>
+          <Include href="buttons/ButtonHello.xml" itemIcon="0" loadImmediate="false" itemID="554e2fc9-000001a7" lastModified="1431187401"/>
+          <Include href="buttons/ButtonRunJump.xml" itemIcon="0" loadImmediate="false" itemID="554e2fcd-000001a8" lastModified="1431187405"/>
+          <Include href="movieClips/rabbit_hello.xml" loadImmediate="false" itemID="554e08e7-0000089d" lastModified="1431178966"/>
+          <Include href="movieClips/rabbit_jump.xml" loadImmediate="false" itemID="554e0477-000007d5" lastModified="1431179026"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1">
+               <layers>
+                    <DOMLayer name="Play" color="#808080" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import flash.events.MouseEvent;
+import flash.events.Event;
+
+
+
+btnHello.addEventListener(MouseEvent.CLICK, Rabbithello);
+btnJump.addEventListener(MouseEvent.CLICK, Rabbitjump);
+
+function Rabbithello(event:Event):void{
+	
+	rabbithello.play();
+}
+
+function Rabbitjump(event:Event):void{
+	
+
+	rabbitjump.play();
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ButtonHello" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="buttons/ButtonHello" name="btnHello" symbolType="button">
+                                             <matrix>
+                                                  <Matrix ty="343.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="148.5" y="28"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Rabbithello" color="#4F80FF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="movieClips/rabbit_hello" name="rabbithello">
+                                             <matrix>
+                                                  <Matrix tx="17.95" ty="-33.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="120" y="187.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ButtonJump" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="buttons/ButtonRunJump" name="btnJump" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="315" ty="343.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="148.5" y="28"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Rabbitjump" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="movieClips/rabbit_jump" name="rabbitjump">
+                                             <matrix>
+                                                  <Matrix tx="334.95" ty="-31.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="120" y="187.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="764070" publishTime="1431187374"/>
+          <PublishItem publishSize="762901" publishTime="1431187333"/>
+          <PublishItem publishSize="762903" publishTime="1431187256"/>
+          <PublishItem publishSize="762903" publishTime="1431187193"/>
+          <PublishItem publishSize="764094" publishTime="1431185949"/>
+          <PublishItem publishSize="764094" publishTime="1431185806"/>
+          <PublishItem publishSize="764142" publishTime="1431185689"/>
+          <PublishItem publishSize="657535" publishTime="1431180108"/>
+          <PublishItem publishSize="657500" publishTime="1431179974"/>
+          <PublishItem publishSize="656940" publishTime="1431179160"/>
+     </publishHistory>
+</DOMDocument>
