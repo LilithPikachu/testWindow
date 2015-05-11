@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="movieClips/StarsProgresBarAnimations/Image_star_3" itemID="554e2d00-000000bc" lastModified="1431186688">
+  <timeline>
+    <DOMTimeline name="Image_star_3">
+      <layers>
+        <DOMLayer name="Star" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="movieClips/graphics/Star">
+                  <matrix>
+                    <Matrix a="0.939682006835938" b="-0.342010498046875" c="0.342010498046875" d="0.939682006835938" tx="-16.25" ty="21.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.1" y="48.1"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

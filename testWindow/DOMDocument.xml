@@ -1,0 +1,119 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="701.65" height="666.7" currentTimeline="1" xflVersion="2.5" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 14.1 build 96" majorVersion="14" minorVersion="1" buildNumber="96" rulerVisible="true" timelineLabelWidth="320" viewAngle3D="67.1763991707736" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <folders>
+          <DOMFolderItem name="movieClips" itemID="554e27e3-00000049"/>
+          <DOMFolderItem name="movieClips/font" itemID="554dccc9-00000477"/>
+          <DOMFolderItem name="movieClips/graphics" itemID="554e2816-0000004b" isExpanded="true"/>
+          <DOMFolderItem name="movieClips/graphics/Buttons" itemID="554dc8cc-00000455" isExpanded="true"/>
+          <DOMFolderItem name="movieClips/graphics/Buttons/button_send_to_all" itemID="554dd0d2-00000484"/>
+          <DOMFolderItem name="movieClips/graphics/Buttons/Button_Share" itemID="554dd0f4-00000487"/>
+          <DOMFolderItem name="movieClips/graphics/Buttons/close_button" itemID="52c14f37-00000316"/>
+          <DOMFolderItem name="movieClips/graphics/Scrolling" itemID="554e2d5b-000000c7"/>
+          <DOMFolderItem name="movieClips/StarsProgresBarAnimations" itemID="554dcd4d-0000047f"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="movieClips/font/Big_Bottom_Cartoon_Regular" itemID="554d0917-00000196" font="Big_Bottom_Cartoon" size="0" id="1" sourceLastImported="1388399442" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="movieClips/graphics/Avatar.png" itemID="554df885-000006d2" sourceExternalFilepath="../testWindow/LIBRARY/graphic/Avatar.png" sourceLastImported="1431172480" externalFileSize="42616" useDeblocking="true" originalCompressionType="lossless" quality="90" href="movieClips/graphics/Avatar.png" bitmapDataHRef="M 32 1431124225.dat" frameRight="3880" frameBottom="3360"/>
+          <DOMBitmapItem name="movieClips/graphics/AvatarFriends.png" itemID="554e2aea-000000a5" sourceExternalFilepath="../../Работа/tasks/tasks/testWindow/LIBRARY/graphic/players panel/players/avatar.png" sourceLastImported="1431186154" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="movieClips/graphics/AvatarFriends.png" bitmapDataHRef="M 36 1389258678.dat" frameRight="920" frameBottom="920"/>
+          <DOMBitmapItem name="movieClips/graphics/BgAvatar" itemID="554e2aa8-000000a0" sourceExternalFilepath="../testWindow/LIBRARY/graphic/bgAvatar.png" sourceLastImported="1431186088" externalFileSize="2487" originalCompressionType="lossless" quality="50" href="movieClips/graphics/BgAvatar.png" bitmapDataHRef="M 52 1431171973.dat" frameRight="3800" frameBottom="3220"/>
+          <DOMBitmapItem name="movieClips/graphics/BgFrendsPanel.png" itemID="554e2ab1-000000a1" sourceExternalFilepath="../testWindow/LIBRARY/graphic/bgFrendsPanel.png" sourceLastImported="1431186097" externalFileSize="19345" useImportedJPEGData="false" useDeblocking="true" originalCompressionType="lossless" quality="90" href="movieClips/graphics/BgFrendsPanel.png" bitmapDataHRef="M 41 1431157836.dat" frameRight="3220" frameBottom="4760"/>
+          <DOMBitmapItem name="movieClips/graphics/BgLevelWindow" itemID="554e2abe-000000a2" sourceExternalFilepath="../testWindow/LIBRARY/graphic/bgLevelWindow.png" sourceLastImported="1431186110" externalFileSize="411317" useImportedJPEGData="false" useDeblocking="true" originalCompressionType="lossless" href="movieClips/graphics/BgLevelWindow.png" bitmapDataHRef="M 35 1431125682.dat" frameRight="10160" frameBottom="12320"/>
+          <DOMBitmapItem name="movieClips/graphics/Border.png" itemID="554e2ae2-000000a4" sourceExternalFilepath="../../Работа/готовые арты/border.png" sourceLastImported="1431186146" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Border.png" bitmapDataHRef="M 37 1431127831.dat" frameRight="10660" frameBottom="12680"/>
+          <DOMBitmapItem name="movieClips/graphics/BorderFrendsPanell.png" itemID="554e2ade-000000a3" sourceExternalFilepath="../testWindow/LIBRARY/graphic/borderFrendsPanell.png" sourceLastImported="1431186142" externalFileSize="14970" useImportedJPEGData="false" useDeblocking="true" compressionType="lossless" originalCompressionType="lossless" quality="90" href="movieClips/graphics/BorderFrendsPanell.png" bitmapDataHRef="M 40 1431157728.dat" frameRight="4000" frameBottom="5060"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/button_send_to_all/borderSendToAll.png" itemID="554def22-000004d9" sourceExternalFilepath="../testWindow/LIBRARY/graphic/Buttons/button_send_to_all/borderSendToAll.png" sourceLastImported="1431170829" externalFileSize="2509" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Buttons/button_send_to_all/borderSendToAll.png" bitmapDataHRef="M 49 1431170850.dat" frameRight="2820" frameBottom="660"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/button_send_to_all/btnSendToAllDown" itemID="554dee08-000004d2" sourceExternalFilepath="../testWindow/LIBRARY/graphic/Buttons/button_send_to_all/btnSendToAllDown.png" sourceLastImported="1431170568" externalFileSize="1098" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Buttons/button_send_to_all/btnSendToAllDown.png" bitmapDataHRef="M 48 1431170562.dat" frameRight="2760" frameBottom="500"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/button_send_to_all/btnSendToAllNormal.png" itemID="554dea08-000004c4" sourceExternalFilepath="../testWindow/LIBRARY/graphic/Buttons/button_send_to_all/btnSendToAllNormal.png" sourceLastImported="1431169506" externalFileSize="1921" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Buttons/button_send_to_all/btnSendToAllNormal.png" bitmapDataHRef="M 46 1431169544.dat" frameRight="2760" frameBottom="500"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/button_send_to_all/btnSendToAllOver" itemID="554dec02-000004cb" sourceExternalFilepath="../testWindow/LIBRARY/graphic/Buttons/button_send_to_all/btnSendToAllOver.png" sourceLastImported="1431170050" externalFileSize="1840" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Buttons/button_send_to_all/btnSendToAllOver.png" bitmapDataHRef="M 47 1431170044.dat" frameRight="2760" frameBottom="500"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/close_button/Close_active" itemID="554e2d47-000000c3" sourceExternalFilepath="../../Работа/tasks/tasks/testWindow/LIBRARY/graphic/level menu/close_button/close_active" sourceLastImported="1431186759" originalCompressionType="lossless" quality="100" href="movieClips/graphics/Buttons/close_button/Close_active" bitmapDataHRef="M 12 1388400521.dat" frameRight="680" frameBottom="680"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/close_button/Close_normal.png" itemID="554e2d4b-000000c4" sourceExternalFilepath="../testWindow/LIBRARY/graphic/level menu/close_button/close_normal" sourceLastImported="1431186763" externalFileSize="1637" originalCompressionType="lossless" quality="100" href="movieClips/graphics/Buttons/close_button/Close_normal.png" bitmapDataHRef="M 6 1388397443.dat" frameRight="680" frameBottom="680"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/close_button/Close_selected" itemID="554e2d4f-000000c5" sourceExternalFilepath="../../Работа/tasks/tasks/testWindow/LIBRARY/graphic/level menu/close_button/close_selected" sourceLastImported="1431186767" originalCompressionType="lossless" quality="100" href="movieClips/graphics/Buttons/close_button/Close_selected" bitmapDataHRef="M 13 1388400557.dat" frameRight="680" frameBottom="680"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/close_button/CloseBg.png" itemID="554e2d52-000000c6" sourceExternalFilepath="../testWindow/LIBRARY/graphic/level menu/close_button/closeBg.png" sourceLastImported="1431186770" externalFileSize="5235" originalCompressionType="lossless" quality="100" href="movieClips/graphics/Buttons/close_button/CloseBg.png" bitmapDataHRef="M 11 1388400439.dat" frameRight="1240" frameBottom="1240"/>
+          <DOMBitmapItem name="movieClips/graphics/CupcakePoints" itemID="554e2c98-000000ab" sourceExternalFilepath="../testWindow/LIBRARY/graphic/cupcakePoints.png" sourceLastImported="1431186584" externalFileSize="2720" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="movieClips/graphics/CupcakePoints.png" bitmapDataHRef="M 38 1431129177.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="movieClips/graphics/Heart.png" itemID="554e2c9c-000000ac" sourceExternalFilepath="../testWindow/LIBRARY/graphic/heart.png" sourceLastImported="1431186588" externalFileSize="2183" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Heart.png" bitmapDataHRef="M 43 1431158964.dat" frameRight="560" frameBottom="480"/>
+          <DOMBitmapItem name="movieClips/graphics/ImageGift.png" itemID="554e2ca1-000000ad" sourceExternalFilepath="../testWindow/LIBRARY/graphic/imageGift.png" sourceLastImported="1431186593" externalFileSize="1648" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="movieClips/graphics/ImageGift.png" bitmapDataHRef="M 42 1431158426.dat" frameRight="440" frameBottom="480"/>
+          <DOMBitmapItem name="movieClips/graphics/Scrolling/ScrollBorder.png" itemID="554e2ca5-000000ae" sourceExternalFilepath="../testWindow/LIBRARY/graphic/players panel/scroler/Layer 165" sourceLastImported="1431186597" externalFileSize="3364" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="90" href="movieClips/graphics/Scrolling/ScrollBorder.png" bitmapDataHRef="M 27 1396713033.dat" frameRight="300" frameBottom="6120"/>
+          <DOMBitmapItem name="movieClips/graphics/Scrolling/ScrollButton.png" itemID="554e2ca9-000000af" sourceExternalFilepath="../testWindow/LIBRARY/graphic/scrolling/scrollButton.png" sourceLastImported="1431186601" externalFileSize="1785" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Scrolling/ScrollButton.png" bitmapDataHRef="M 51 1431171235.dat" frameRight="480" frameBottom="480"/>
+          <DOMBitmapItem name="movieClips/graphics/Scrolling/ScrollLine.png" itemID="554e2cae-000000b0" sourceExternalFilepath="../testWindow/LIBRARY/graphic/players panel/scroler/Rounded Rectangle 2" sourceLastImported="1431186606" externalFileSize="695" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="90" href="movieClips/graphics/Scrolling/ScrollLine.png" bitmapDataHRef="M 26 1396713033.dat" frameRight="140" frameBottom="5920"/>
+          <DOMBitmapItem name="movieClips/graphics/ShadowFrendsPanel" itemID="554e2cb8-000000b1" sourceExternalFilepath="../../Работа/tasks/tasks/testWindow/LIBRARY/graphic/players panel/players/shadow-1.png" sourceLastImported="1431186616" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="movieClips/graphics/ShadowFrendsPanel.png" bitmapDataHRef="M 53 1389860233.dat" frameRight="1080" frameBottom="4740"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/Button_Share/Share_border" itemID="554e2ccd-000000b3" sourceExternalFilepath="../../Работа/готовые арты/share_border.png" sourceLastImported="1431186637" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Buttons/Button_Share/Share_border.png" bitmapDataHRef="M 44 1431168619.dat" frameRight="6040" frameBottom="1360"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/Button_Share/Share_down" itemID="554e2cd2-000000b4" sourceExternalFilepath="../../Работа/tasks/tasks/testWindow/LIBRARY/graphic/level menu/Button play/play_selected" sourceLastImported="1431186642" originalCompressionType="lossless" quality="85" href="movieClips/graphics/Buttons/Button_Share/Share_down" bitmapDataHRef="M 12 1388397813.dat" frameRight="5940" frameBottom="1100"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/Button_Share/Share_normal.png" itemID="554e2cd6-000000b5" sourceExternalFilepath="../testWindow/LIBRARY/graphic/level menu/Button play/play_normal" sourceLastImported="1431186646" externalFileSize="9442" originalCompressionType="lossless" quality="85" href="movieClips/graphics/Buttons/Button_Share/Share_normal.png" bitmapDataHRef="M 9 1388397635.dat" frameRight="5940" frameBottom="1120"/>
+          <DOMBitmapItem name="movieClips/graphics/Buttons/Button_Share/Share_over" itemID="554e2cda-000000b6" sourceExternalFilepath="../../Работа/tasks/tasks/testWindow/LIBRARY/graphic/level menu/Button play/play_active" sourceLastImported="1431186650" originalCompressionType="lossless" quality="85" href="movieClips/graphics/Buttons/Button_Share/Share_over" bitmapDataHRef="M 11 1388397712.dat" frameRight="5940" frameBottom="1120"/>
+          <DOMBitmapItem name="movieClips/graphics/Star" itemID="554e259f-00000a0e" sourceExternalFilepath="../testWindow/LIBRARY/graphic/Star.png" sourceLastImported="1431185287" externalFileSize="17341" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Star.png" bitmapDataHRef="M 32 1431184179.dat" frameRight="2200" frameBottom="1920"/>
+          <DOMBitmapItem name="movieClips/graphics/StrokeBorderAvatar.png" itemID="554df886-000006d9" sourceExternalFilepath="../testWindow/LIBRARY/graphic/StrokeBorderAvatar.png" sourceLastImported="1431172481" externalFileSize="17477" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="movieClips/graphics/StrokeBorderAvatar.png" bitmapDataHRef="M 39 1431130672.dat" frameRight="4280" frameBottom="3600"/>
+          <DOMBitmapItem name="movieClips/graphics/Tick.png" itemID="554e2cbe-000000b2" sourceExternalFilepath="../testWindow/LIBRARY/graphic/tick.png" sourceLastImported="1431186622" externalFileSize="3250" originalCompressionType="lossless" quality="50" href="movieClips/graphics/Tick.png" bitmapDataHRef="M 50 1431171000.dat" frameRight="980" frameBottom="860"/>
+     </media>
+     <symbols>
+          <Include href="FinishLevelWindow.xml" itemID="52d7a64a-0000043a" lastModified="1431186975"/>
+          <Include href="movieClips/AvatarHeart.xml" loadImmediate="false" itemID="530c5968-0000028c" lastModified="1431170992"/>
+          <Include href="movieClips/AvatarImage.xml" loadImmediate="false" itemID="530c5695-00000283" lastModified="1393318015"/>
+          <Include href="movieClips/Blik.xml" loadImmediate="false" itemID="554e2d31-000000c2" lastModified="1431186737"/>
+          <Include href="movieClips/Bottom.xml" loadImmediate="false" itemID="52ea4291-00000246" lastModified="1431171225"/>
+          <Include href="movieClips/ButtonClose.xml" loadImmediate="false" itemID="554e2a46-0000009d" lastModified="1431185990"/>
+          <Include href="movieClips/ButtonSendToAll.xml" loadImmediate="false" itemID="554e2a65-0000009e" lastModified="1431186021"/>
+          <Include href="movieClips/ButtonShare.xml" loadImmediate="false" itemID="554e2a6c-0000009f" lastModified="1431186028"/>
+          <Include href="movieClips/Effect_1.xml" loadImmediate="false" itemID="554e2d2b-000000c1" lastModified="1431186731"/>
+          <Include href="movieClips/Effect_2.xml" loadImmediate="false" itemID="554e2d26-000000c0" lastModified="1431186726"/>
+          <Include href="movieClips/FriendsPanel.xml" loadImmediate="false" itemID="554e2d21-000000bf" lastModified="1431186721"/>
+          <Include href="movieClips/GiveSurpise.xml" loadImmediate="false" itemID="532956e8-00000705" lastModified="1431158416"/>
+          <Include href="movieClips/Ligth.xml" loadImmediate="false" itemID="554e2c77-000000aa" lastModified="1431186551"/>
+          <Include href="movieClips/Line.xml" loadImmediate="false" itemID="52ea429b-0000024d" lastModified="1394033556"/>
+          <Include href="movieClips/Scroller.xml" loadImmediate="false" itemID="52ea4280-0000023c" lastModified="1395601185"/>
+          <Include href="movieClips/ScrollListContent.xml" loadImmediate="false" itemID="5315ec90-00000398" lastModified="1396702055"/>
+          <Include href="movieClips/StarsProgresBarAnimations/Anim_star_1.xml" loadImmediate="false" itemID="554e2ce2-000000b7" lastModified="1431186658"/>
+          <Include href="movieClips/StarsProgresBarAnimations/Anim_star_2.xml" loadImmediate="false" itemID="554e2ce5-000000b8" lastModified="1431186661"/>
+          <Include href="movieClips/StarsProgresBarAnimations/Anim_star_3.xml" loadImmediate="false" itemID="554e2cea-000000b9" lastModified="1431186666"/>
+          <Include href="movieClips/StarsProgresBarAnimations/Image_star_1.xml" loadImmediate="false" itemID="554e2cef-000000ba" lastModified="1431186671"/>
+          <Include href="movieClips/StarsProgresBarAnimations/Image_star_2.xml" loadImmediate="false" itemID="554e2cf9-000000bb" lastModified="1431186681"/>
+          <Include href="movieClips/StarsProgresBarAnimations/Image_star_3.xml" loadImmediate="false" itemID="554e2d00-000000bc" lastModified="1431186688"/>
+          <Include href="movieClips/StarsProgresBarAnimations/StarsProgresBar.xml" loadImmediate="false" itemID="554d1290-0000022c" lastModified="1431114384"/>
+          <Include href="movieClips/Target.xml" loadImmediate="false" itemID="554e2d06-000000bd" lastModified="1431186694"/>
+          <Include href="movieClips/Tgrt.xml" loadImmediate="false" itemID="554e2d0a-000000be" lastModified="1431186698"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1">
+               <layers>
+                    <DOMLayer name="next target: 234 555" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="FinishLevelWindow" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="351" ty="317"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="304079" publishTime="1431185324"/>
+          <PublishItem publishSize="259486" publishTime="1431184760"/>
+          <PublishItem publishSize="254006" publishTime="1431184144"/>
+          <PublishItem publishSize="253996" publishTime="1431184125"/>
+          <PublishItem publishSize="255072" publishTime="1431180199"/>
+          <PublishItem publishSize="255053" publishTime="1431174260"/>
+          <PublishItem publishSize="255053" publishTime="1431172434"/>
+          <PublishItem publishSize="259349" publishTime="1431171612"/>
+          <PublishItem publishSize="259004" publishTime="1431163396"/>
+          <PublishItem publishSize="280212" publishTime="1431163320"/>
+          <PublishItem publishSize="260842" publishTime="1431163294"/>
+          <PublishItem publishSize="259004" publishTime="1431163244"/>
+          <PublishItem publishSize="290218" publishTime="1431162789"/>
+          <PublishItem publishSize="322863" publishTime="1431162651"/>
+          <PublishItem publishSize="675497" publishTime="1431160709"/>
+          <PublishItem publishSize="727825" publishTime="1431160608"/>
+          <PublishItem publishSize="727845" publishTime="1431160515"/>
+          <PublishItem publishSize="345735" publishTime="1401972648"/>
+          <PublishItem publishSize="345879" publishTime="1401440531"/>
+          <PublishItem publishSize="345880" publishTime="1401440437"/>
+     </publishHistory>
+</DOMDocument>
